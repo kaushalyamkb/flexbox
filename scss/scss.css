@@ -1,0 +1,22 @@
+.flex-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #a8a8a8;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.flex-container > div {
+  background-color: #1106b4;
+  width: 100px;
+  margin: 20px;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  line-height: 100px;
+  font-size: 30px;
+}
+/*# sourceMappingURL=scss.css.map */
